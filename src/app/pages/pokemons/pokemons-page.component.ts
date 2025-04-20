@@ -51,7 +51,7 @@ export default class PokemonsPageComponent implements OnInit, OnDestroy {
     // setTimeout(()=> {
     //   this.isLoading.set(false)
     // },5000)
-    this.loadPokemons()
+    // this.loadPokemons()
   }
 
   ngOnDestroy(): void {
